@@ -1,0 +1,23 @@
+Homework 0 - Due Thursday, August 25 at 2:20 pm
+
+In this directory, you will find 3 class files and one test file.
+Each of the class files has 2 or 3 methods that need to be implemented.
+The test cases for all of these methods are in the test file which was written 
+using JUnit4. 
+
+I know that Eclipse and IntelliJ will support these without issue. You can just
+make a new project and add these files. It looks like Xcode no longer natively
+supports java development, but it can be done. If you have already configured
+your version of Xcode to support Java, then you should also be able to just create
+a new project with these files. I don’t know if it will support the JUnit tests.
+jGrasp is another super lightweight java IDE, but I have no experience with it.
+
+If you have any questions or need clarity on how a method should react to certain
+inputs, check the test cases or ask me. If you’re having trouble setting up your project in an IDE, come see me.
+
+You don’t need to submit the test cases. Just the three class files will due. You can upload the completed implementations in Moodle.
+
+Good luck!
+Michelle
+
+
